@@ -1,0 +1,4 @@
+# available resources
+# Resource Type, number of resorurces of that type, operations/s, RAM(Gb), power
+CPU1,1,100,16000,130
+SW1,1,100,6000,99

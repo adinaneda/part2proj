@@ -1,0 +1,4 @@
+SchPolicy,TasksAlloc,TasksDropped,TasksTotal,PercentageAlloc,PercentageDropped,TotalPower,Duration(secs)
+FCFSqueue,29929,20071,50000,59.858,40.142,2.12928e+06,11
+Offline,34090,15910,50000,68.18,31.82,2.1376e+06,12
+EDF,31360,18640,50000,62.72,37.28,2.19395e+06,12

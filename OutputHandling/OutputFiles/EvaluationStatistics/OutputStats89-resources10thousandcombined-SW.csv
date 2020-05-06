@@ -1,0 +1,4 @@
+SchPolicy,TasksDropped,TasksAlloc,TasksTotal,RunningTimeTask(min),RunningTimeTask(max),RunningTimeTask(avg),WaitTimeTask(min),WaitTimeTask(max),WaitTimeTask(avg),AllocTime(ticks),TotalMemory,TotalPower,AvgPower(time),AvgPower(NumTasks)
+FCFSqueue,20071,29929,50000,0,2145.49,269.825,0,278.722,54.3753,2307.58,4.03429e+07,2.12928e+06,922.334,71.1444
+Offline,15910,34090,50000,0,2145.27,239.464,0,298.999,106.679,2397.03,4.75419e+07,2.1376e+06,891.397,62.7045
+EDF,18640,31360,50000,0.000199795,2133.88,260.688,0,298.986,59.3343,2379.46,4.17677e+07,2.19395e+06,921.649,69.9601
